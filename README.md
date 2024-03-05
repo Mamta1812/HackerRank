@@ -10,4 +10,9 @@ All the Task solution for 2,3st star in hacker rank .
 it is for python.
 medium level questions .
 
+file_namw : Hackerrank_3*
+All the Task solution for 3,4st star in hacker rank .
+it is for python.
+Moderate difficulty level questions .
+
 
