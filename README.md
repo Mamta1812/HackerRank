@@ -16,6 +16,9 @@ it is for python.
 Moderate difficulty level questions .
 
 file_namw : Hackerrank4*
+All the Task solution for 4st star in hacker rank .
+it is for python.
+Moderate difficulty level questions .
  
 
 
