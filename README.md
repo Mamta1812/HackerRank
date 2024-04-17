@@ -7,7 +7,7 @@ it is for python basics.
 
 file_namw : HackerRank2st*
 All the Task solution for 2,3st star in hacker rank .
-it is for python.
+it is for python. 
 medium level questions .
  
 file_namw : Hackerrank_3*
