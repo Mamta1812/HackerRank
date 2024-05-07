@@ -12,7 +12,7 @@ medium level questions .
  
 file_namw : Hackerrank_3* 
 All the Task solution for 3,4st star in hacker rank .
-it is for python.
+it is for python. 
 Moderate difficulty level questions .
 
 file_namw : Hackerrank4*
